@@ -1,0 +1,23 @@
+#divs{
+    text-align: center;
+}
+#mylabel{
+    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 10em;
+    text-align: center;
+    display : block;
+
+}
+.buttons{
+    font-size: 1.5em;
+    border-radius: 5%;
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    border-color: blueviolet;
+
+}
+.buttons:hover{
+    background-color: rgb(13, 86, 211);
+    transition-duration: 0.5s;
+    color:white;
+}
